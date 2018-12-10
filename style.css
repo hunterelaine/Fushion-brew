@@ -1,0 +1,79 @@
+/* page Style */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+Html {
+	font-size: 12px:
+	backgroung-color: #FF00FF ;
+}
+body {
+	width: 80%;
+	margin: 0 auto; 
+	backgrouunf-color: lightgrey;
+}
+/* typography */
+h1, h2, h3 {
+	font-family: helvetica;
+	color: pink;
+	text-align: center;
+}p, li {
+	font-family: helvetica;
+	color: #2a2a2a;
+}
+h1 {
+	font size: 2.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+p, li {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+/* layout & style */
+
+footer {
+  background-color: black;
+  padding: 1%;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow:hidden;
+	background-color: #333;
+}
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text decoration: none;
+}
+nav li a:hover:not(.active) {
+	background-color: grey;
+}
+nav .active {
+	background-color: red;
+}
+header (
+	clear: both;
+main {
+}
+
+.column { 
+	height: 100%
+	margin-bottom: 0;
+	float: left;
+	padding: 1%;
+	display: block;
+}
+#leftcolumn {
+	backgroundcolumn
